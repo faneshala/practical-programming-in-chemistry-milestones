@@ -9,7 +9,7 @@ The **personal milestones table** outlines key milestones for practical programm
 |------|---------------------------------------------|-----------------------------------------------------------------------------|
 | 1    | Github Account Created                      | https://github.com/faneshala                                               | 
 | 1    | Github Profile Page                         | https://github.com/faneshala/faneshala                                    |
-| 1    | Commit and Push Change from Command Line    | https://github.com/faneshala/ppchem/commit/commit-nr              |
+| 1    | Commit and Push Change from Command Line    | https://github.com/faneshala/ppchem/commit/7952f979e4490419fd73ff60163da7884e9f84f9 |
 | 1    | Create a New Branch                         | https://github.com/faneshala/ppchem/tree/trial       |
 | 1    | Create a conda environment                  | https://github.com/faneshala/ppchem/blob/main/env.yml      |
 | 1    | Fork a Repo                                 | https://github.com/faneshala/practical-programming-in-chemistry-milestones |
